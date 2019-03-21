@@ -1,0 +1,22 @@
+{
+  "name": "icode-push",
+  "version": "1.0.0",
+  "description": "icode push shortup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxjinwei/icode-push.git"
+  },
+  "keywords": [
+    "icode"
+  ],
+  "author": "xxjinwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxjinwei/icode-push/issues"
+  },
+  "homepage": "https://github.com/xxjinwei/icode-push#readme"
+}
