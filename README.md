@@ -10,5 +10,5 @@
 ```javascript
     const {getRemoteName, push} = require('icode-push')
 
-    getRemoteName().then(push);
+    getRemoteName().then(push)
 ```
