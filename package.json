@@ -1,6 +1,6 @@
 {
   "name": "icode-push",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "baidu icode push shortup",
   "main": "./lib/push.js",
   "bin": "./bin/push",

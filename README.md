@@ -1,6 +1,4 @@
-# icode push shortup
-
-`gpush` is stupid
+# baidu icode push shortcut
 
 ### how to use
 1. `npx icode-push`

@@ -1,2 +1,7 @@
 #! /usr/bin/env node
-require('../lib/push.js')
+const {getRemoteName, push} = require('../lib')
+
+getRemoteName().then(
+    push,
+    e => {console.log(e)}
+)
