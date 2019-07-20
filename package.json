@@ -1,8 +1,8 @@
 {
   "name": "icode-push",
-  "version": "1.0.15",
+  "version": "1.0.17",
   "description": "baidu icode push shortup",
-  "main": "./lib/push.js",
+  "main": "./lib/index.js",
   "bin": "./bin/push",
   "config": {
     "loc": "beijing"
